@@ -8,8 +8,4 @@ Disclaimers:
 
 Enjoy,
 
-Dylan Cunningham
-
-Data Scientist
-
-dylanwithdata@gmail.com
+Dylan Cunningham, Data Scientist
