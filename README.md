@@ -9,3 +9,5 @@ Disclaimers:
 Enjoy,
 
 Dylan Cunningham, Data Scientist
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Dylan-Cunningham/deep-learning-module/00844ab)
